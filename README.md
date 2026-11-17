@@ -4,6 +4,10 @@
 
 灵感致敬海外设计工程师 Yash Bharadwaj 的网页交互实验 [`holo.yashb.xyz`](https://holo.yashb.xyz/)。由于原站未附带开源许可，本项目采用 Clean-room 洁净室方式从零重写，并扩展了双光效舞台、摇包验货、96 段可控撕裂、炉石式悬念翻牌、3 包必金保底与 12 卡 3D 图鉴闭环。
 
+## 实机演示（16:9 · 60fps · 原生实时声效）
+
+https://github.com/user-attachments/assets/1a82c614-f6aa-4d55-92d9-b84697926f07
+
 ---
 
 ## 快速运行
