@@ -2,6 +2,11 @@
 
 > 零前端框架、零外部音效文件、零第三方运行时依赖的原生 Web 撕包抽卡交互实验（`HTML` + `CSS 3D` + `SVG` + `Canvas 2D` + `Web Audio API`）。
 
+**在线体验（Live Demo）**
+
+- 中文站（国内访问）：[https://simplemkt.cn/zh/lab/prism-holo-pack/](https://simplemkt.cn/zh/lab/prism-holo-pack/)
+- International（Global）：[https://simplemkt.cc/en/lab/prism-holo-pack/](https://simplemkt.cc/en/lab/prism-holo-pack/)
+
 灵感致敬海外设计工程师 Yash Bharadwaj 的网页交互实验 [`holo.yashb.xyz`](https://holo.yashb.xyz/)。由于原站未附带开源许可，本项目采用 Clean-room 洁净室方式从零重写，并扩展了双光效舞台、摇包验货、96 段可控撕裂、炉石式悬念翻牌、3 包必金保底与 12 卡 3D 图鉴闭环。
 
 ## 实机演示（16:9 · 60fps · 原生实时声效）

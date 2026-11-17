@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/Lone3m-tech/prism-holo-pack.git"
   },
-  "homepage": "https://github.com/Lone3m-tech/prism-holo-pack#readme",
+  "homepage": "https://simplemkt.cn/zh/lab/prism-holo-pack/",
   "engines": {
     "node": ">=18.0.0"
   }
