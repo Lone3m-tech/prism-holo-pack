@@ -1,0 +1,14 @@
+# macOS & Editor
+.DS_Store
+**/.DS_Store
+
+# Dependencies & Temp
+node_modules/
+tmp/
+_raw-*
+*.log
+
+# Local execution records, QA captures, exported videos, and workspace-only metadata
+runs/
+docs/
+project.yaml

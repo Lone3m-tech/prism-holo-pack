@@ -1,0 +1,29 @@
+{
+  "name": "prism-holo-pack",
+  "version": "3.0.0",
+  "description": "Zero-dependency native Web tactile booster-pack tearing, procedural 3D SDF character cards, holographic shaders, and real-time Web Audio SFX.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "generate-assets": "node scripts/generate-assets.mjs"
+  },
+  "keywords": [
+    "interactive-design",
+    "css-3d",
+    "holographic-card",
+    "web-audio-api",
+    "tactile-ui",
+    "zero-dependency",
+    "sdf-raymarching"
+  ],
+  "author": "SimpleMkt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lone3m-tech/prism-holo-pack.git"
+  },
+  "homepage": "https://github.com/Lone3m-tech/prism-holo-pack#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
